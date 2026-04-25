@@ -1,0 +1,17 @@
+User-agent: *
+Allow: /
+Disallow: /404.html
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Googlebot
+Allow: /
+
+Sitemap: https://www.austincarnivalrides.com/sitemap.xml
